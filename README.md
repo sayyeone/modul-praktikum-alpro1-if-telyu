@@ -156,18 +156,6 @@ go run main.go
   - ✨ **Recommended**: VS Code dengan Go extension
   - 🔹 **Alternative**: GoLand, Vim, Sublime Text, atau Atom
 
-### **🛠️ Development Tools**
-```bash
-# Install Go (Linux/Mac via Homebrew)
-brew install go
-
-# Install VS Code Go extension
-code --install-extension golang.go
-
-# Verify installation
-go version
-```
-
 ---
 
 ## 📚 **Referensi dan Resources**
@@ -198,20 +186,6 @@ go version
 
 ---
 
-## 🎯 **Tips Sukses**
-
-### **💡 Best Practices**
-1. **Write Clean Code**: Gunakan naming convention yang jelas
-2. **Comment Your Code**: Dokumentasikan logic yang kompleks
-3. **Test Early**: Jalankan program setelah setiap perubahan kecil
-4. **Use Go Tools**: Manfaatkan `go fmt`, `go vet`, dan `go test`
-
-### **🚫 Common Pitfalls to Avoid**
-- Tidak menggunakan `go fmt` untuk formatting
-- Mengabaikan error handling
-- Membuat function terlalu panjang
-- Tidak memahami pointer dan reference
-
 ### **📈 Semester 1 Learning Roadmap**
 ```
 Week 1-2: Setup & I/O Fundamentals
@@ -228,41 +202,6 @@ Week 12-14: Composition & Integration
   ↓
 Week 15-16: Final Assessment & Advanced Topics
 ```
-
----
-
-## 🤝 **Support & Community**
-
-### **💬 Butuh Bantuan?**
-1. **Dosen Pengajar**: Jadwal office hours Senin-Jumat 10:00-12:00
-2. **Study Group**: Setiap Kamis 19:00 di Lab Komputer
-3. **Online Community**: [Go Indonesia Telegram](https://t.me/golangID)
-
-### **📝 Feedback**
-Kami sangat menghargai feedback Anda untuk perbaikan modul ini:
-- Email: [algoritma2@university.edu](mailto:algoritma2@university.edu)
-- Form Feedback: [bit.ly/feedback-go-module](http://bit.ly/feedback-go-module)
-
----
-
-## 🏆 **Achievement Badges**
-
-Kumpulkan badge ini selama pembelajaran:
-
-🥉 **Go Beginner**: Menyelesaikan setup dan program pertama  
-🥈 **I/O Master**: Menguasai input/output dan tipe data  
-🥇 **Loop Expert**: Mahir menggunakan semua jenis perulangan  
-🏅 **Conditional Wizard**: Expert dalam percabangan (if-else, switch)  
-🏆 **Assessment Champion**: Lulus kedua asesmen praktikum  
-🌟 **Go Graduate**: Menyelesaikan semua modul termasuk pengayaan  
-
----
-
-**📅 Last Updated**: September 2025  
-**📄 Version**: 2.0  
-**👨‍🏫 Prepared by**: Tim Algoritma dan Pemrograman 1  
-**🎯 Target**: Mahasiswa Semester 1 Informatika  
-
 ---
 
 <div align="center">
