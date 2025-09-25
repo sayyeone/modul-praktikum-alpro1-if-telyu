@@ -32,7 +32,7 @@ Go adalah bahasa pemrograman yang dikembangkan oleh Google, terkenal karena kese
 
 Silakan akses modul-modul praktikum melalui link wiki berikut:
 
-[W3Schools Go Tutorial](https://www.w3schools.com/go/)
+[W3Schools Go Tutorial]((https://github.com/sayyeone/modul-praktikum-alpro1-if-telyu/wiki))
 
 > 💡 **Petunjuk**: Klik link "Akses di Wiki" untuk mempelajari materi lengkap setiap modul beserta contoh kode dan latihan praktikum.
 
