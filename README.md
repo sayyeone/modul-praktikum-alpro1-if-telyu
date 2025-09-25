@@ -2,6 +2,20 @@
 # 🚀 Modul Praktikum Algoritma dan Pemrograman 1
 ## Bahasa Pemrograman Go
 
+<div align="right">
+  <details>
+    <summary><strong>📑 Quick Navigation</strong></summary>
+    <br>
+    <a href="#-pendahuluan">📚 Pendahuluan</a><br>
+    <a href="#-tujuan-pembelajaran">🎯 Tujuan Pembelajaran</a><br>
+    <a href="#-konten-modul">📖 Konten Modul</a><br>
+    <a href="#-quick-start-guide">🚀 Quick Start</a><br>
+    <a href="#-cara-menggunakan-modul">📋 Cara Menggunakan</a><br>
+    <a href="#️-prasyarat-sistem">⚙️ Prasyarat Sistem</a><br>
+    <a href="#-referensi-dan-resources">📚 Referensi</a><br>
+  </details>
+</div>
+
 ```
    ____       _                             _             
   / ___| ___ | | __ _ _ __   __ _   ___  ___| |_ __ _ _ __ 
@@ -14,6 +28,37 @@
 ### 🎯 **Selamat Datang di Modul Praktikum Go!**
 
 Halo dan selamat datang! Anda telah memasuki dunia pemrograman Go yang menarik dan powerful. Modul ini dirancang khusus untuk membantu Anda menguasai konsep-konsep fundamental dalam pemrograman dengan bahasa Go.
+
+---
+
+## 📋 **Daftar Isi** | Table of Contents
+
+<details>
+<summary><strong>🗂️ Klik untuk melihat daftar isi lengkap</strong></summary>
+
+### 📌 **Navigasi Cepat**
+- [📚 Pendahuluan](#-pendahuluan)
+- [🎯 Tujuan Pembelajaran](#-tujuan-pembelajaran)
+- [📖 Konten Modul](#-konten-modul)
+  - [🏃‍♂️ Modul 1: Running Modul](#️-modul-1-running-modul)
+  - [🔄 Modul 2-4: I/O, Tipe Data & Variabel](#-modul-2-4-io-tipe-data--variabel)
+  - [🔁 Modul 5-6: For-Loop](#-modul-5-6-for-loop)
+  - [🎯 Modul 7: Asesmen Praktikum 1](#-modul-7-asesmen-praktikum-1)
+  - [🌿 Modul 9-11: Struktur Kontrol Percabangan](#-modul-9-11-struktur-kontrol-percabangan)
+  - [🔄 Modul 12-13: Advanced Looping](#-modul-12-13-advanced-looping)
+  - [🧩 Modul 14: Komposisi](#-modul-14-komposisi)
+  - [🏆 Modul 15: Asesmen Praktikum 2](#-modul-15-asesmen-praktikum-2)
+  - [🚀 Modul 16: Skema Pemrosesan Sekuensial](#-modul-16-skema-pemrosesan-sekuensial-pengayaan)
+- [🚀 Quick Start Guide](#-quick-start-guide)
+- [📋 Cara Menggunakan Modul](#-cara-menggunakan-modul)
+  - [🔸 Phase 1: Foundation & Setup](#-phase-1-foundation--setup-minggu-1-3)
+  - [🔸 Phase 2: Control Structures](#-phase-2-control-structures-minggu-4-8)
+  - [🔸 Phase 3: Integration & Mastery](#-phase-3-integration--mastery-minggu-9-12)
+- [⚙️ Prasyarat Sistem](#️-prasyarat-sistem)
+- [📚 Referensi dan Resources](#-referensi-dan-resources)
+- [📈 Learning Roadmap](#-semester-1-learning-roadmap)
+
+</details>
 
 ---
 
@@ -91,6 +136,10 @@ Setelah menyelesaikan modul ini, Anda diharapkan mampu:
 
 ---
 
+> 📖 **Pro Tip**: Setiap modul dilengkapi dengan latihan praktis. Pastikan Anda menyelesaikan semua latihan sebelum melanjut ke modul berikutnya!
+
+---
+
 ## 🚀 **Quick Start Guide**
 
 ### **Langkah 1: Persiapan Environment**
@@ -118,6 +167,8 @@ func main() {
 go run main.go
 ```
 
+> 💡 **Navigation Tip**: Gunakan [Daftar Isi](#-daftar-isi--table-of-contents) di atas untuk navigasi cepat ke bagian yang Anda butuhkan!
+
 ---
 
 ## 📋 **Cara Menggunakan Modul**
@@ -139,6 +190,8 @@ go run main.go
 2. **Build Complex Programs** - Mini-projects dengan multiple concepts
 3. **Complete Assessment 2** - Comprehensive final evaluation
 4. **Explore Advanced Topics** - Sequential processing (pengayaan)
+
+> 📚 **Study Path**: Ikuti fase pembelajaran secara berurutan untuk hasil optimal. Lihat [Learning Roadmap](#-semester-1-learning-roadmap) untuk timeline detail.
 
 ---
 
@@ -203,6 +256,8 @@ Week 12-14: Composition & Integration
 Week 15-16: Final Assessment & Advanced Topics
 ```
 ---
+
+> 🔝 **[⬆️ Kembali ke Daftar Isi](#-daftar-isi--table-of-contents)**
 
 <div align="center">
   <h3>🎉 Happy Coding with Go! 🎉</h3>
